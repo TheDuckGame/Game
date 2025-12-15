@@ -14,5 +14,7 @@
 	- [ ] In-game UI
 		- [ ] Currency status
   		- [ ] Inventory toggle button
+    	- [ ] Journal toggle button
 	- [ ] Inventory
+	- [ ] Journal
 - [ ] Font(s)
