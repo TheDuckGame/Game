@@ -5,3 +5,6 @@
 	- [ ] BG Music
 - [ ] Chat announcing
 	- [ ] Player joined
+- [ ] GUI
+ - [ ] Loading screen
+ - [ ] Welcome screen
