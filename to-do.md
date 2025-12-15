@@ -1,10 +1,18 @@
 # TO-DO
 
-- [ ] Sky
+- [ ] Sky + lighting
 - [ ] Sounds
 	- [ ] BG Music
 - [ ] Chat announcing
 	- [ ] Player joined
 - [ ] GUI
- - [ ] Loading screen
- - [ ] Welcome screen
+	- [ ] Loading screen
+ 		- [ ] Loading bar (Ducks - animation)
+	- [ ] Welcome screen
+ 		- [ ] Start button
+   		- [ ] Box
+	- [ ] In-game UI
+		- [ ] Currency status
+  		- [ ] Inventory toggle button
+	- [ ] Inventory
+- [ ] Font(s)
