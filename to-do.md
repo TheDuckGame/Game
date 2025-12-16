@@ -1,5 +1,3 @@
-# TO-DO
-
 - [ ] Sky + lighting
 - [ ] Sounds
 	- [ ] BG Music
