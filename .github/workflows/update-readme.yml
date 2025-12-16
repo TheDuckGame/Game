@@ -1,0 +1,60 @@
+name: Update README sections from markdown files
+
+on:
+  push:
+    paths:
+      - todo.md
+      - fonts.md
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Inject TODO and FONTS into README
+        run: |
+          inject () {
+            local source_file=$1
+            local start_marker=$2
+            local end_marker=$3
+
+            CONTENT=$(cat "$source_file")
+
+            awk -v content="$CONTENT" \
+                -v start="$start_marker" \
+                -v end="$end_marker" '
+              BEGIN {print_flag=1}
+              $0 ~ start {
+                print
+                print content
+                print_flag=0
+                next
+              }
+              $0 ~ end {
+                print_flag=1
+              }
+              print_flag {
+                print
+              }
+            ' README.md > README.tmp
+
+            mv README.tmp README.md
+          }
+
+          inject "todo.md"  "<!-- TODO_START -->"  "<!-- TODO_END -->"
+          inject "fonts.md" "<!-- FONTS_START -->" "<!-- FONTS_END -->"
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "README is already up to date"
+          else
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add README.md
+            git commit -m "Update README sections [skip ci]"
+            git push
+          fi
