@@ -44,7 +44,7 @@ jobs:
             mv README.tmp README.md
           }
 
-          inject "todo.md"  "<!-- TODO_START -->"  "<!-- TODO_END -->"
+          inject "to-do.md"  "<!-- TODO_START -->"  "<!-- TODO_END -->"
           inject "fonts.md" "<!-- FONTS_START -->" "<!-- FONTS_END -->"
 
       - name: Commit changes
