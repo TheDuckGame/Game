@@ -26,6 +26,8 @@
 	- [ ] Inventory
 	- [ ] Journal
 - [ ] Font(s)
+- [ ] Make to-do aesthetic 
+- [ ] Make vertical version of [palette.png](https://github.com/TheDuckGame/Game/blob/main/palette.png)
 <!-- TODO_END -->
 
 ### Fonts 🖋️
