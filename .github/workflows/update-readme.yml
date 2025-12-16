@@ -3,7 +3,7 @@ name: Update README sections from markdown files
 on:
   push:
     paths:
-      - todo.md
+      - to-do.md
       - fonts.md
 
 jobs:
