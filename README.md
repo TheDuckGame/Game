@@ -1,3 +1,5 @@
+[![Static Badge](https://img.shields.io/badge/The_Duck-Game-green?logo=github&logoColor=%23959DA5&labelColor=%23363E45&color=%232DB84D)](https://github.com/TheDuckGame/Game)
+![Update README](https://github.com/TheDuckGame/Game/actions/workflows/update-readme.yml/badge.svg)
 # 🦆 The Duck Game Repo 🦆
 
 ## Resources 📚
