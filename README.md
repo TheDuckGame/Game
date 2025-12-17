@@ -4,7 +4,11 @@
 
 ## Resources 📚
 ### Color & Font Palette 🎨
-![Color & Font Palette](https://raw.githubusercontent.com/TheDuckGame/Game/refs/heads/main/palette.png)
+#### Horizontal ↔️
+![Color & Font Palette](https://raw.githubusercontent.com/TheDuckGame/Game/refs/heads/main/assets/Palette-hrz.png)
+
+#### Vertical ↕️
+![Color & Font Palette](https://raw.githubusercontent.com/TheDuckGame/Game/refs/heads/main/assets/Palette-vert.png)
 
 ### To-Do List 📋
 <!-- TODO_START -->
@@ -29,12 +33,12 @@
 - [ ] Font(s) 🖋️
 #### Github 🌐
 - [x] Make to-do aesthetic 🪷
-- [ ] Make vertical version of [palette.png](https://github.com/TheDuckGame/Game/blob/main/palette.png) ↕️
+- [x] Make vertical version of [Palette-hrz.png](https://raw.githubusercontent.com/TheDuckGame/Game/refs/heads/main/assets/Palette-hrz.png) ↕️
 <!-- TODO_END -->
 
 ### Fonts 🖋️
 <!-- FONTS_START -->
-Spicy Sale - https://www.behance.net/gallery/237376667/Spicy-Sale-Font-free-for-commercial-use <br>
-Chopsticks - https://www.behance.net/gallery/237376143/Chopsticks-Font-free-for-commercial-use <br>
-Behove - https://www.behance.net/gallery/235910277/Behove-Font-free-for-commercial-use
+Spicy Sale - [Behance Link](https://www.behance.net/gallery/237376667/Spicy-Sale-Font-free-for-commercial-use) <br>
+Chopsticks - [Behance Link](https://www.behance.net/gallery/237376143/Chopsticks-Font-free-for-commercial-use) <br>
+Behove - [Behance Link](https://www.behance.net/gallery/235910277/Behove-Font-free-for-commercial-use)
 <!-- FONTS_END -->
