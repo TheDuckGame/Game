@@ -33,7 +33,7 @@
 - [ ] Font(s) 🖋️
 #### Github 🌐
 - [x] Make to-do aesthetic 🪷
-- [ ] Make vertical version of [palette.png](https://github.com/TheDuckGame/Game/blob/main/palette.png) ↕️
+- [x] Make vertical version of [palette.png](https://github.com/TheDuckGame/Game/blob/main/palette.png) ↕️
 <!-- TODO_END -->
 
 ### Fonts 🖋️
