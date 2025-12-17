@@ -8,28 +8,28 @@
 
 ### To-Do List 📋
 <!-- TODO_START -->
-#### Game
-- [ ] Sky + lighting
-- [ ] Sounds
-	- [ ] BG Music
-- [ ] Chat announcing
-	- [ ] Player joined
-- [ ] GUI
-	- [ ] Loading screen
- 		- [ ] Loading bar (Ducks - animation)
-	- [ ] Welcome screen
- 		- [ ] Start button
-   		- [ ] Box
-	- [ ] In-game UI
-		- [ ] Currency status
-  		- [ ] Inventory toggle button
-    	- [ ] Journal toggle button
-	- [ ] Inventory
-	- [ ] Journal
-- [ ] Font(s)
-#### Github
-- [ ] Make to-do aesthetic 
-- [ ] Make vertical version of [palette.png](https://github.com/TheDuckGame/Game/blob/main/palette.png)
+#### Game 🎮
+- [ ] Sky + lighting 💡
+- [ ] Sounds 🔈
+	- [ ] BG Music 🎵
+- [ ] Chat announcing 💬
+	- [ ] Player joined ➕
+- [ ] GUI 🖥️
+	- [ ] Loading screen 🔁
+ 		- [ ] Loading bar (Ducks - animation) 🦆
+	- [ ] Welcome screen 🤗
+ 		- [ ] Start button 🔲
+   		- [ ] Box 📦
+	- [ ] In-game UI 💻
+		- [ ] Currency status 🪙
+  		- [ ] Inventory toggle button 📥
+    	- [ ] Journal toggle button 📔
+	- [ ] Inventory 📥
+	- [ ] Journal 📔
+- [ ] Font(s) 🖋️
+#### Github 🌐
+- [x] Make to-do aesthetic 🪷
+- [ ] Make vertical version of [palette.png](https://github.com/TheDuckGame/Game/blob/main/palette.png) ↕️
 <!-- TODO_END -->
 
 ### Fonts 🖋️
