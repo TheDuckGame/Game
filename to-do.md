@@ -12,8 +12,8 @@
    		- [ ] Box 📦
 	- [ ] In-game UI 💻
 		- [ ] Currency status 🪙
-  		- [ ] Inventory toggle button 📥
-    	- [ ] Journal toggle button 📔
+  		- [x] Inventory toggle button 📥
+    	- [x] Journal toggle button 📔
 	- [ ] Inventory 📥
 	- [ ] Journal 📔
 - [ ] Font(s) 🖋️
