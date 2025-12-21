@@ -20,16 +20,27 @@
 	- [ ] Player joined ➕
 - [ ] GUI 🖥️
 	- [ ] Loading screen 🔁
- 		- [ ] Loading bar (Ducks - animation) 🦆
+ 		- [ ] Loading bar 🔁
+   			- [x] Bar 🔁
+   			- [ ] Ducks animation 🦆
 	- [ ] Welcome screen 🤗
  		- [ ] Start button 🔲
    		- [ ] Box 📦
 	- [ ] In-game UI 💻
 		- [ ] Currency status 🪙
-  		- [ ] Inventory toggle button 📥
-    	- [ ] Journal toggle button 📔
+  			- [ ] Placeholder 🔡
+     		- [ ] Final ✅
+  		- [x] Inventory toggle button 📥
+    	- [x] Journal toggle button 📔
+    	- [ ] Close button ❌
+     		- [x] Placeholder 🔡
+   			- [ ] Final ✅
 	- [ ] Inventory 📥
+		- [x] Placeholder 🔡
+		- [ ] Final ✅
 	- [ ] Journal 📔
+		- [x] Placeholder 🔡
+		- [ ] Final ✅
 - [ ] Font(s) 🖋️
 #### Github 🌐
 - [x] Make to-do aesthetic 🪷
