@@ -12,9 +12,10 @@
 	- [ ] Welcome screen 🤗
  		- [ ] Start button 🔲
    		- [ ] Box 📦
+ 		- [x] Placeholder 🔡
 	- [ ] In-game UI 💻
 		- [ ] Currency status 🪙
-  			- [ ] Placeholder 🔡
+  			- [x] Placeholder 🔡
      		- [ ] Final ✅
   		- [x] Inventory toggle button 📥
     	- [x] Journal toggle button 📔
